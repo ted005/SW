@@ -1,0 +1,5 @@
+example/IDao.class
+example/ServiceImpl.class
+example/IService.class
+example/DaoImpl.class
+example/SpringTest.class
